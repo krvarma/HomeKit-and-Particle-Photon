@@ -47,6 +47,14 @@ The Particle Accessory listens for this events and whenever it is received, upda
 
 **Screenshots**
 
+![Wiring](https://raw.githubusercontent.com/krvarma/HomeKit-and-Particle-Photon/master/images/wiring.JPG)
+
+![App](https://raw.githubusercontent.com/krvarma/HomeKit-and-Particle-Photon/master/images/app1.PNG)
+
+![App](https://raw.githubusercontent.com/krvarma/HomeKit-and-Particle-Photon/master/images/app2.PNG)
+
+![App](https://raw.githubusercontent.com/krvarma/HomeKit-and-Particle-Photon/master/images/app3.PNG)
+
 **Demo Video**
 
 *Controlling a Light using HomeKit application*
