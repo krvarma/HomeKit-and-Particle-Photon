@@ -18,7 +18,9 @@
             "name": "Particle Sensors",
             "cloud_url": "https://api.spark.io/v1/devices/",
             "deviceid": "replace with your deviceid",
-            "accesstoken": "replace with your access token"
+            "accesstoken": "replace with your access token",
+			"bulb_service": "yes",
+			"room_name": "Bedroom"
         }
     ]
 }		
