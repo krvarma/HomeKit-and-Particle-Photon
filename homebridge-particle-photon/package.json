@@ -1,0 +1,36 @@
+{
+  "name": "homebridge-particle-photon",
+  "version": "0.0.1",
+  "description": "Particle Photon plugin for Homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "author": {
+    "name": "krvarma"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/krvarma/HomeKit-and-Particle-Photon.git"
+  },
+  "dependencies": {
+    "request": "^2.65.0"
+  },
+  "homepage": "https://github.com/krvarma/HomeKit-and-Particle-Photon#readme",
+  "_id": "homebridge-particle-photon@0.0.1",
+  "scripts": {},
+  "_from": "homebridge-particle-photon@*",
+  "_npmVersion": "3.3.12",
+  "_nodeVersion": "5.1.1",
+  "maintainers": [
+    {
+      "name": "kemathy",
+      "email": "ke.mathy@gmail.com"
+    }
+  ],
+  "directories": {}
+}
